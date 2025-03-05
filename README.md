@@ -1,4 +1,4 @@
-###LeetCode Solutions
+### LeetCode Solutions
 1. string-to-integer-atoi
 
 <picture>
